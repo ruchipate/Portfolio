@@ -1,0 +1,30 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruchipate/Portfolio.git"
+  },
+  "author": "Ruchi Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruchipate/Portfolio/issues"
+  },
+  "homepage": "https://github.com/ruchipate/Portfolio#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "client-sessions": "^0.8.0",
+    "cloudinary": "^1.36.4",
+    "express-handlebars": "^7.0.7",
+    "express.js": "^1.0.0",
+    "html": "^1.0.0",
+    "mongoose": "^7.1.0",
+    "strip-js": "^1.2.0"
+  }
+}
